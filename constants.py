@@ -1,0 +1,42 @@
+CRED_FILE_OR_ENVIRON = "file"
+CRED_FILE_NAME = "cred.yaml"
+
+DEFAULT_PREFIX = "!"
+
+VIP_GATE_MIN_MESSAGES_NUMBER = 50
+VIP_GATE_MIN_REPORTS_NUMBER = 0
+
+CHANNEL_IDS = {
+    "announcements": 788342599642513418,
+    "rules": 788354101397159947,
+    "faq": 788354361289867284,
+    "github": 802114243452600350,
+    "general": 788341540438933557,
+    "off-topic": 788342415865806858,
+    "chat-1": 816372606248026142,
+    "chat-2": 816372641099153408,
+    "bot-test": 788354215566114857,
+    "verify-role": 797436788355891211,
+    "dev-announcements": 816284800771948545,
+    "dev-general": 788343045027528714,
+    "dev-bot": 788343078447874069,
+    "dev-website": 788343156323385344,
+    "staff-announcements": 816611639863410728,
+    "staff-general": 816611676442722314,
+    "modmail": 816611655172489217
+}
+
+ROLE_IDS = {
+    "Admin": 788343299576561694,
+    "Moderator": 788343434683482112,
+    "VIP": 816269892164386856,
+    "Developer": 788343468615270431,
+    "Nitro Booster": 816633954018000907,
+    "Member": 788343554166489108,
+    "Bot": 821331001090375690
+}
+
+COLORS = {
+    "info": 0x2A85D4,
+    "error": 0xFF1111
+}

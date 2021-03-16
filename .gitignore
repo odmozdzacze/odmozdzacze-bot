@@ -1,0 +1,5 @@
+.idea/
+venv/
+cred.yaml
+.DS_Store
+__pycache__/
